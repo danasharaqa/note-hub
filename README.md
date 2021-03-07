@@ -1,4 +1,7 @@
-#NoteHub
+
+<h1 style="color: red">
+    NoteHub
+</h1>
 
 note-hub project ..
 
