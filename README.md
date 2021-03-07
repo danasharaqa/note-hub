@@ -1,31 +1,22 @@
-# <span style='color:red;'>NOTE HUB</span>
+#NoteHub
 note-hub project ..
 ****
-**Team** 
-<br>
-Fadi Hijazi, Software Engineer
-<br>
-Rema'a Khalid, Software Engineer
-<br>
-Dana Sharaqa, Software Engineer
-<br>
-Rahaf Mahmoud, Software Engineer
-<br>
+**Team**  
+Fadi Hijazi, Software Engineer\
+Rema'a Khalid, Software Engineer\
+Dana Sharaqa, Software Engineer\
+Rahaf Mahmoud, Software Engineer\
 ****
 **Requirements**:
-<br>
-<ul>
-<li>Php  8.0.2</li>
-<li>Laravel 8.x</li>
-<li>Composer</li>
-<li>Npm</li>
-</ul>
-
+- Php  8.0.2
+- Laravel 8.x
+- Composer
+- Npm
 ****
 Document:
-<br>
+
 **how to install ?**
-<br>
+
 ....
 
 ****
